@@ -1,0 +1,14 @@
+README
+
+This was a project I did for an Algorithms class at Stanford.
+
+
+
+The CollectionADT represents an abstract data set which can be used to store any scalar type. In addition to basic functionality (Insert, Search, etc...) the collection also exports more interesting functions, including searching in a specific range and successor/predecessor functions.
+
+
+The Collection is implemented with an extension of Red & Black Binary Trees. This ensure efficient running time for any data set and input order.
+ 
+
+
+
