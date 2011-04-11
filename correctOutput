@@ -1,0 +1,142 @@
+**************************************************************************
+Insert Test
+**************************************************************************
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+50
+53
+57
+62
+68
+75
+83
+92
+102
+113
+**************************************************************************
+Search Test
+**************************************************************************
+Found 0
+Found 5
+Couldn't find 10
+Found 15
+Found 20
+Couldn't find 25
+Couldn't find 30
+Couldn't find 35
+Couldn't find 40
+Couldn't find 45
+Found 50
+Couldn't find 55
+Couldn't find 60
+Couldn't find 65
+Couldn't find 70
+Found 75
+Couldn't find 80
+Couldn't find 85
+Couldn't find 90
+Couldn't find 95
+Couldn't find 100
+Closest value to 15 is 15
+Closest value to 18 is 18
+Closest value to 21 is 20
+Closest value to 24 is 20
+Closest value to 27 is 20
+Closest value to 30 is 20
+Closest value to 33 is 20
+Closest value to 36 is 50
+Closest value to 39 is 50
+Closest value to 42 is 50
+**************************************************************************
+Maximum/Minimum Test
+**************************************************************************
+Maximum is 113
+Minimum is 0
+Min in range 50 to 150 is 50
+Max in range 50 to 150 is 113
+Min in range 150 to 50 is -1
+Max in range 150 to 50 is -1
+**************************************************************************
+Successor/Predecessor Test
+**************************************************************************
+Successor of -1 is 0
+Successor of 0 is 1
+Successor of 1 is 2
+Successor of 2 is 3
+Successor of 3 is 4
+Successor of 4 is 5
+Successor of 5 is 6
+Successor of 6 is 7
+Successor of 7 is 8
+Successor of 8 is 9
+Successor of 9 is 11
+Successor of 11 is 12
+Successor of 12 is 13
+Successor of 13 is 14
+Successor of 14 is 15
+Successor of 15 is 16
+Successor of 16 is 17
+Successor of 17 is 18
+Successor of 18 is 19
+Successor of 19 is 20
+Successor of 20 is 50
+Successor of 50 is 53
+Successor of 53 is 57
+Successor of 57 is 62
+Successor of 62 is 68
+Successor of 68 is 75
+Successor of 75 is 83
+Successor of 83 is 92
+Successor of 92 is 102
+Successor of 102 is 113
+
+
+
+Predecessor of -1 is 113
+Predecessor of 113 is 102
+Predecessor of 102 is 92
+Predecessor of 92 is 83
+Predecessor of 83 is 75
+Predecessor of 75 is 68
+Predecessor of 68 is 62
+Predecessor of 62 is 57
+Predecessor of 57 is 53
+Predecessor of 53 is 50
+Predecessor of 50 is 20
+Predecessor of 20 is 19
+Predecessor of 19 is 18
+Predecessor of 18 is 17
+Predecessor of 17 is 16
+Predecessor of 16 is 15
+Predecessor of 15 is 14
+Predecessor of 14 is 13
+Predecessor of 13 is 12
+Predecessor of 12 is 11
+Predecessor of 11 is 9
+Predecessor of 9 is 8
+Predecessor of 8 is 7
+Predecessor of 7 is 6
+Predecessor of 6 is 5
+Predecessor of 5 is 4
+Predecessor of 4 is 3
+Predecessor of 3 is 2
+Predecessor of 2 is 1
+Predecessor of 1 is 0
